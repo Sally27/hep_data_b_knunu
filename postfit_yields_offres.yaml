@@ -1,0 +1,138 @@
+---
+independent_variables:
+- header: {name: '$p_T\times \rm{BDT}_2$ bins'} 
+  values:
+#  - value: {$p_T \in [0.5; 2.0]$ and $\rm{BDT}_2 \in [0.93; 0.95]$}
+  - {value: '$[0.5; 2.0] \times [0.93; 0.95]$'}
+  - {value: '$[2.0; 2.4]\times [0.93; 0.95]$'}
+  - {value: '$[2.4; 3.5]\times [0.93; 0.95]$'}
+  - {value: '$[0.5; 2.0] \times [0.95; 0.97]$'}
+  - {value: '$[2.0; 2.4]\times [0.95; 0.97]$'}
+  - {value: '$[2.4; 3.5]\times [0.95; 0.97]$'}
+  - {value: '$[0.5; 2.0] \times [0.97; 0.99]$'}
+  - {value: '$[2.0; 2.4]\times [0.97; 0.99]$'}
+  - {value: '$[2.4; 3.5]\times [0.97; 0.99]$'}
+  - {value: '$[0.5; 2.0] \times [0.99; 1.00]$'}
+  - {value: '$[2.0; 2.4]\times [0.99; 1.00]$'}
+  - {value: '$[2.4; 3.5]\times [0.99; 1.00]$'}
+dependent_variables:
+- header: {name: Observed data}
+  qualifiers:
+  - {name: '', value: yield}
+  values:
+  - value: 32.0
+    errors:
+    - symerror: 5.7
+  - value: 40.0
+    errors:
+    - symerror: 6.3
+  - value: 21.0
+    errors:
+    - symerror: 4.6
+  - value: 26.0
+    errors:
+    - symerror: 5.1
+  - value: 28.0
+    errors:
+    - symerror: 5.3
+  - value: 19.0
+    errors:
+    - symerror: 4.4
+  - value: 5.0
+    errors:
+    - symerror: 2.2
+  - value: 16.0
+    errors:
+    - symerror: 4.0
+  - value: 7.0
+    errors:
+    - symerror: 2.6
+  - value: 1.0
+    errors:
+    - symerror: 1.0
+  - value: 0.0
+    errors:
+    - symerror: 1.84
+  - value: 2.0
+    errors:
+    - symerror: 1.4
+- header: {name: Number of events from $c\bar c$ backgrounds}
+  qualifiers:
+  - {name: '', value: yield}
+  values:
+  - value: 20.3866417
+  - value: 22.8659116
+  - value: 11.8516476
+  - value: 13.0459073
+  - value: 15.0024067
+  - value: 6.61536401
+  - value: 3.45027676
+  - value: 6.82412263
+  - value: 3.57843877
+  - value: 1.41256435e-06
+  - value: 0.35882864
+  - value: 0.122421795
+- header: {name: Number of events from $d\bar d$ backgrounda}
+  qualifiers:
+  - {name: '', value: yield}
+  values:
+  - value: 0.934867702
+  - value: 1.20624283
+  - value: 0.986941154
+  - value: 0.829424548
+  - value: 0.622630334
+  - value: 0.314630065
+  - value: 0.166245689
+  - value: 0.527459098
+  - value: 1.02882593e-06
+  - value: 1.02882992e-06
+  - value: 1.02882443e-06
+  - value: 1.0288294e-06
+- header: { name: Number of events from $s\bar s$ backgrounds}
+  qualifiers:
+  - {name: '', value: yield}
+  values:
+  - value: 6.5621048
+  - value: 9.25336739
+  - value: 7.26929595
+  - value: 6.59039111
+  - value: 10.1264505
+  - value: 5.69270476
+  - value: 1.52736336
+  - value: 4.64341151
+  - value: 2.45969275
+  - value: 0.234211165
+  - value: 0.18144294
+  - value: 0.315714047
+- header: {name: Number of events from $\tau\tau$ backgrounds}
+  qualifiers:
+  - {name: '', value: yield}
+  values:
+  - value: 0.35870587
+  - value: 0.0967281869
+  - value: 1.00160267e-06
+  - value: 1.00160317e-06
+  - value: 0.252059253
+  - value: 0.265324463
+  - value: 1.00160293e-06
+  - value: 0.171867645
+  - value: 1.00160228e-06
+  - value: 1.00160627e-06
+  - value: 1.00160209e-06
+  - value: 1.00160634e-06
+- header: {name: Number of events from $u\bar u$ backgrounds}
+  qualifiers:
+  - {name: '', value: yield}
+  values:
+  - value: 2.88592571
+  - value: 3.63384942
+  - value: 1.96227597
+  - value: 1.62958527
+  - value: 3.42325315
+  - value: 2.04368131
+  - value: 1.33087775
+  - value: 1.74531751
+  - value: 1.22589815
+  - value: 1.01774276e-06
+  - value: 1.01773875e-06
+  - value: 0.140893345

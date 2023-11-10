@@ -1,0 +1,76 @@
+# Start a new submission. This section is optional for the provision of information about the overall submission.
+---
+
+additional_resources: # additional references (e.g. experiment TWiki page for analysis)
+- {location: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.181802#supplemental", description: "PRL web page with sumplementary material"}
+
+comment: | # Information that applies to all data tables.
+  SuperKEKB Belle II.  Measurement of the branching fraction of $B^{+} \rightarrow K^{+} \nu \bar{\nu}$ at the Belle II experiment at the SuperKEKB. The analysed data sample corresponds to an integrated luminosity of 63 fb$^{−1}$ collected at the $\Upsilon(4S)$ resonance and a sample of 9 fb$^{−1}$ collected at an energy 60 MeV below the resonance between 2019-2021. Since no significant signal was observed, limit of $4.1\times 10^{-5}$ was set using CL$_{s}$ method.
+---
+data_file: dummy.yaml
+description: '- - - - - - - - Overview of HEPData Record - - - - - - - - <br/><br/>
+  </ul>
+  <b>Post-fit yields:</b>
+  <ul>
+  <li><a href="130199?version=1&table=Postfit%20yields%20Y(4S)">Y(4S)</a>
+  <li><a href="130199?version=1&table=Postfit%20yields%20off-resonance">Off-resonance</a>
+  </ul>
+  <b>Exclusion limit:</b>
+  <ul>
+  <li><a href="130199?version=1&table=Expected%20and%20observed%20Limit">Expected limit and observed limit</a>
+  </ul>
+  <b>Efficiency:</b>
+  <ul>
+  <li><a href="130199?version=1&table=Selection%20efficiency">Selection efficiency as a function of $q^{2}$</a>
+  </ul>'
+keywords: []
+name: Table of contents
+---
+# Start of table entries.
+# This is Table 1.
+name: "Postfit yields Y(4S)"
+additional_resources:
+- {description: Image file, location: Y4S_postfit.png}
+- {description: Thumbnail image file, location: thumb_Y4S_postfit.png}
+data_file: postfit_yields_Y4S.yaml
+location: Figure 3 in https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.127.181802
+description: Yields in on-resonance data and as predicted by the simultaneous fit to the on- and off-resonance data, corresponding to an integrated luminosity of 63 and 9 fb$^{−1}$, respectively. The predicted yields are shown individually for charged and neutral B-meson decays and  the five continuum background categories. The leftmost three bins belong to the first control region (CR1) with BDT$_{2} \in [0.93; 0.95]$ and the other nine bins correspond to the signal region (SR), three for each range of BDT$_{2} \in [0.95; 0.97; 0.99; 1.0]$. Each set of three bins is defined by $p_{T}(K^{+}) \in [0.5; 2.0; 2.4; 3.5] \rm{GeV}/c^{2}$.
+keywords: # used for searching, possibly multiple values for each keyword
+- {name: reactions, values: [$B^+ \rightarrow K^+\nu\bar\nu$]}
+- {name: observables, values: [signal strenghth $\mu$]}
+- {name: phrases, values: [FCNC, b --> s l l transition, electroweak penguin decay, missing energy]}
+---
+name: "Postfit yields off-resonance"
+additional_resources:
+- {description: Image file, location: offres_postfit.png}
+- {description: Thumbnail image file, location: thumb_offres_postfit.png}
+data_file: postfit_yields_offres.yaml
+location: Figure 1 in https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.127.181802/suppl_mat.pdf
+description: Yields in off-resonance data and as predicted by the simultaneous fit to the on- and off-resonance data, corresponding to an integrated luminosity of 63 and 9 fb$^{−1}$, respectively. The predicted yields are shown individually for the five continuum background categories. The leftmost three bins belong to the third control region (CR3) with BDT$_{2} \in [0.93; 0.95]$ and the other nine bins correspond to the second control region (CR2), three for each range of BDT$_{2} \in [0.95; 0.97; 0.99; 1.0]$. Each set of three bins is defined by $p_{T}(K^{+}) \in [0.5; 2.0; 2.4; 3.5] \rm{GeV}/c^{2}$.
+keywords: # used for searching, possibly multiple values for each keyword
+- {name: reactions, values: [$B^+ \rightarrow K^+\nu\bar\nu$]}
+- {name: observables, values: [signal strenghth $\mu$]}
+- {name: phrases, values: [FCNC, b --> s l l transition, electroweak penguin decay, missing energy]}
+---
+name: "Expected and observed limit"
+additional_resources:
+- {description: Image file, location: limit_BF_BKnunu.png}
+- {description: Thumbnail image file, location: thumb_limit_BF_BKnunu.png}
+data_file: limit_B_Knunu.yaml
+location: Figure 2 in https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.127.181802/suppl_mat.pdf
+description: CL$_{s}$ value as a function of the branching fraction of $B^{+} \rightarrow K^{+} \nu \bar{\nu}$ for expected and observed signal yields and the corresponding upper limits at 90% confidence level (CL). The expected limit is derived for the background-only hypothesis. The observed limit is derived from a simultaneous fit to the on-resonance and off-resonance data, corresponding to an integrated luminosity of 63 fb$^{−1}$ and 9 fb$^{−1}$, respectively. 
+keywords: # used for searching, possibly multiple values for each keyword
+- {name: reactions, values: [$B^+ \rightarrow K^+\nu\bar\nu$]}
+- {name: phrases, values: [FCNC, b --> s l l transition, electroweak penguin decay, missing energy]}
+---
+name: "Selection efficiency"
+additional_resources:
+- {description: Image file, location: q2_eff.png}
+- {description: Thumbnail image file, location: thumb_q2_eff.png}
+data_file: efficiency_vs_q2.yaml
+location: Figure 3 in https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.127.181802/suppl_mat.pdf
+description: Signal efficiency as a function of the dineutrino invariant mass squared $q^{2}$ for events in the signal region (SR) ($\rm{BDT}_{1} > 0.9$ and $\rm{BDT}_{2} > 0.95$). The error bars indicate the statistical uncertainty.
+keywords: # used for searching, possibly multiple values for each keyword
+- {name: reactions, values: [$B^+ \rightarrow K^+\nu\bar\nu$]}
+- {name: phrases, values: [FCNC, b --> s l l transition, electroweak penguin decay, missing energy]}
+---

@@ -1,0 +1,614 @@
+independent_variables:
+- header: {name: '$\mathcal{B}(B^{+} \rightarrow K^{+} \nu \bar{\nu})$'}
+  values:
+  - {value: 0.0}
+  - {value: 9.292929292929293e-07}
+  - {value: 1.8585858585858586e-06}
+  - {value: 2.787878787878788e-06}
+  - {value: 3.7171717171717173e-06}
+  - {value: 4.646464646464647e-06}
+  - {value: 5.575757575757576e-06}
+  - {value: 6.505050505050505e-06}
+  - {value: 7.4343434343434345e-06}
+  - {value: 8.363636363636363e-06}
+  - {value: 9.292929292929294e-06}
+  - {value: 1.0222222222222223e-05}
+  - {value: 1.1151515151515152e-05}
+  - {value: 1.2080808080808081e-05}
+  - {value: 1.301010101010101e-05}
+  - {value: 1.393939393939394e-05}
+  - {value: 1.4868686868686869e-05}
+  - {value: 1.5797979797979798e-05}
+  - {value: 1.6727272727272726e-05}
+  - {value: 1.7656565656565657e-05}
+  - {value: 1.8585858585858588e-05}
+  - {value: 1.9515151515151515e-05}
+  - {value: 2.0444444444444446e-05}
+  - {value: 2.1373737373737373e-05}
+  - {value: 2.2303030303030304e-05}
+  - {value: 2.3232323232323232e-05}
+  - {value: 2.4161616161616163e-05}
+  - {value: 2.509090909090909e-05}
+  - {value: 2.602020202020202e-05}
+  - {value: 2.694949494949495e-05}
+  - {value: 2.787878787878788e-05}
+  - {value: 2.8808080808080807e-05}
+  - {value: 2.9737373737373738e-05}
+  - {value: 3.066666666666667e-05}
+  - {value: 3.1595959595959596e-05}
+  - {value: 3.2525252525252524e-05}
+  - {value: 3.345454545454545e-05}
+  - {value: 3.4383838383838386e-05}
+  - {value: 3.531313131313131e-05}
+  - {value: 3.624242424242424e-05}
+  - {value: 3.7171717171717175e-05}
+  - {value: 3.8101010101010096e-05}
+  - {value: 3.903030303030303e-05}
+  - {value: 3.995959595959596e-05}
+  - {value: 4.088888888888889e-05}
+  - {value: 4.181818181818181e-05}
+  - {value: 4.274747474747475e-05}
+  - {value: 4.3676767676767674e-05}
+  - {value: 4.460606060606061e-05}
+  - {value: 4.5535353535353536e-05}
+  - {value: 4.6464646464646464e-05}
+  - {value: 4.739393939393939e-05}
+  - {value: 4.8323232323232326e-05}
+  - {value: 4.925252525252525e-05}
+  - {value: 5.018181818181818e-05}
+  - {value: 5.111111111111111e-05}
+  - {value: 5.204040404040404e-05}
+  - {value: 5.296969696969697e-05}
+  - {value: 5.38989898989899e-05}
+  - {value: 5.4828282828282825e-05}
+  - {value: 5.575757575757576e-05}
+  - {value: 5.668686868686869e-05}
+  - {value: 5.7616161616161614e-05}
+  - {value: 5.854545454545454e-05}
+  - {value: 5.9474747474747476e-05}
+  - {value: 6.0404040404040404e-05}
+  - {value: 6.133333333333334e-05}
+  - {value: 6.226262626262627e-05}
+  - {value: 6.319191919191919e-05}
+  - {value: 6.412121212121212e-05}
+  - {value: 6.505050505050505e-05}
+  - {value: 6.597979797979798e-05}
+  - {value: 6.69090909090909e-05}
+  - {value: 6.783838383838384e-05}
+  - {value: 6.876767676767677e-05}
+  - {value: 6.96969696969697e-05}
+  - {value: 7.062626262626263e-05}
+  - {value: 7.155555555555555e-05}
+  - {value: 7.248484848484848e-05}
+  - {value: 7.341414141414141e-05}
+  - {value: 7.434343434343435e-05}
+  - {value: 7.527272727272728e-05}
+  - {value: 7.620202020202019e-05}
+  - {value: 7.713131313131313e-05}
+  - {value: 7.806060606060606e-05}
+  - {value: 7.8989898989899e-05}
+  - {value: 7.991919191919192e-05}
+  - {value: 8.084848484848484e-05}
+  - {value: 8.177777777777778e-05}
+  - {value: 8.27070707070707e-05}
+  - {value: 8.363636363636363e-05}
+  - {value: 8.456565656565657e-05}
+  - {value: 8.54949494949495e-05}
+  - {value: 8.642424242424243e-05}
+  - {value: 8.735353535353535e-05}
+  - {value: 8.828282828282828e-05}
+  - {value: 8.921212121212122e-05}
+  - {value: 9.014141414141413e-05}
+  - {value: 9.107070707070707e-05}
+  - {value: 9.2e-05}
+dependent_variables:
+- header: {name: 'CL$_{s}$ value'}
+  qualifiers:
+  - {name: Limit , value: Observed}
+  - {name: Luminosity , units: 'fb$^{-1}$', value: 63+9}
+  values:
+  - {value: 1.1}
+  - {value: 0.953245962}
+  - {value: 0.910805129}
+  - {value: 0.872237598}
+  - {value: 0.837177085}
+  - {value: 0.805284872}
+  - {value: 0.776264559}
+  - {value: 0.749850745}
+  - {value: 0.725805403}
+  - {value: 0.703914061}
+  - {value: 0.683984266}
+  - {value: 0.665843129}
+  - {value: 0.649334741}
+  - {value: 0.634317992}
+  - {value: 0.620665293}
+  - {value: 0.608259996}
+  - {value: 0.59699699}
+  - {value: 0.586779658}
+  - {value: 0.577520037}
+  - {value: 0.569137851}
+  - {value: 0.561559137}
+  - {value: 0.551474254}
+  - {value: 0.524911145}
+  - {value: 0.498508155}
+  - {value: 0.47250288}
+  - {value: 0.446882469}
+  - {value: 0.421661957}
+  - {value: 0.396866529}
+  - {value: 0.372708537}
+  - {value: 0.349128759}
+  - {value: 0.3261572}
+  - {value: 0.304092252}
+  - {value: 0.282752346}
+  - {value: 0.262266688}
+  - {value: 0.242666984}
+  - {value: 0.223975578}
+  - {value: 0.206212369}
+  - {value: 0.189385692}
+  - {value: 0.173499604}
+  - {value: 0.158551814}
+  - {value: 0.14453168}
+  - {value: 0.131424709}
+  - {value: 0.119210902}
+  - {value: 0.107865686}
+  - {value: 0.0973607258}
+  - {value: 0.0876639392}
+  - {value: 0.0787409029}
+  - {value: 0.0705551153}
+  - {value: 0.0630682571}
+  - {value: 0.056241267}
+  - {value: 0.0500342279}
+  - {value: 0.0444076696}
+  - {value: 0.0393217435}
+  - {value: 0.0347377444}
+  - {value: 0.0306177028}
+  - {value: 0.0269249419}
+  - {value: 0.0236242706}
+  - {value: 0.0206820189}
+  - {value: 0.018066269}
+  - {value: 0.0157469197}
+  - {value: 0.0136957093}
+  - {value: 0.0118862747}
+  - {value: 0.0102941652}
+  - {value: 0.00889672235}
+  - {value: 0.0076732043}
+  - {value: 0.00660448509}
+  - {value: 0.00567323321}
+  - {value: 0.00486364731}
+  - {value: 0.00416144739}
+  - {value: 0.00355379008}
+  - {value: 0.00302910358}
+  - {value: 0.00257704987}
+  - {value: 0.00218842087}
+  - {value: 0.00185502619}
+  - {value: 0.00156960951}
+  - {value: 0.00132576906}
+  - {value: 0.00111786827}
+  - {value: 0.00094096275}
+  - {value: 0.000790722328}
+  - {value: 0.000663374521}
+  - {value: 0.000555631966}
+  - {value: 0.000464645255}
+  - {value: 0.000387947884}
+  - {value: 0.000323411634}
+  - {value: 0.000269202605}
+  - {value: 0.00022374583}
+  - {value: 0.000185693011}
+  - {value: 0.000153890668}
+  - {value: 0.000127355142}
+  - {value: 0.000105249349}
+  - {value: 8.6862438e-05}
+  - {value: 7.15923657e-05}
+  - {value: 5.89295678e-05}
+  - {value: 4.84445701e-05}
+  - {value: 3.97749767e-05}
+  - {value: 3.26166663e-05}
+  - {value: 2.67145974e-05}
+  - {value: 2.18546116e-05}
+  - {value: 1.78580964e-05}
+  - {value: 1.45759113e-05}
+- header: {name: 'CL$_{s}$ value'}
+  qualifiers:
+  - {name: Limit , value: Expected}
+  - {name: Luminosity , units: 'fb$^{-1}$', value: 63+9}
+  values:
+  - value: 0.998621089 
+    errors:
+    - {asymerror: { plus: 0.0008814489999999786 , minus: -0.0012545640000000136},label: '1 sigma'}
+    - {asymerror: { plus: 0.0012832659999999496 , minus: -0.002715419000000052},label: '2 sigma'}
+  - value: 0.945208474 
+    errors:
+    - {asymerror: { plus: 0.03434755700000003 , minus: -0.04642456699999997},label: '1 sigma'}
+    - {asymerror: { plus: 0.05072460500000009 , minus: -0.097479443},label: '2 sigma'}
+  - value: 0.890664314 
+    errors:
+    - {asymerror: { plus: 0.06709263499999996 , minus: -0.085949371},label: '1 sigma'}
+    - {asymerror: { plus: 0.10062385900000004 , minus: -0.17505751300000005},label: '2 sigma'}
+  - value: 0.836616884 
+    errors:
+    - {asymerror: { plus: 0.09800288000000001 , minus: -0.11892367299999995},label: '1 sigma'}
+    - {asymerror: { plus: 0.14939054699999998 , minus: -0.23511698599999997},label: '2 sigma'}
+  - value: 0.783342012 
+    errors:
+    - {asymerror: { plus: 0.12684882100000006 , minus: -0.14572960699999993},label: '1 sigma'}
+    - {asymerror: { plus: 0.19669320499999998 , minus: -0.279873672},label: '2 sigma'}
+  - value: 0.730882399 
+    errors:
+    - {asymerror: { plus: 0.153539105 , minus: -0.16687991299999994},label: '1 sigma'}
+    - {asymerror: { plus: 0.24240394600000004 , minus: -0.31153037399999994},label: '2 sigma'}
+  - value: 0.683497347 
+    errors:
+    - {asymerror: { plus: 0.17605125100000008 , minus: -0.181713468},label: '1 sigma'}
+    - {asymerror: { plus: 0.28282856 , minus: -0.33067366299999995},label: '2 sigma'}
+  - value: 0.636447247 
+    errors:
+    - {asymerror: { plus: 0.19676304700000002 , minus: -0.192593318},label: '1 sigma'}
+    - {asymerror: { plus: 0.322018241 , minus: -0.341707891},label: '2 sigma'}
+  - value: 0.590765945 
+    errors:
+    - {asymerror: { plus: 0.21515509499999996 , minus: -0.19961746200000002},label: '1 sigma'}
+    - {asymerror: { plus: 0.35900842099999997 , minus: -0.34554721},label: '2 sigma'}
+  - value: 0.54663455 
+    errors:
+    - {asymerror: { plus: 0.231151279 , minus: -0.20319673400000005},label: '1 sigma'}
+    - {asymerror: { plus: 0.39357704299999996 , minus: -0.34342043200000005},label: '2 sigma'}
+  - value: 0.504201266 
+    errors:
+    - {asymerror: { plus: 0.244713371 , minus: -0.20374864500000006},label: '1 sigma'}
+    - {asymerror: { plus: 0.42553774199999994 , minus: -0.336447649},label: '2 sigma'}
+  - value: 0.463589771 
+    errors:
+    - {asymerror: { plus: 0.25583612899999997 , minus: -0.20168605099999998},label: '1 sigma'}
+    - {asymerror: { plus: 0.454733752 , minus: -0.325634254},label: '2 sigma'}
+  - value: 0.424899595 
+    errors:
+    - {asymerror: { plus: 0.26454577799999995 , minus: -0.19740963200000003},label: '1 sigma'}
+    - {asymerror: { plus: 0.481038569 , minus: -0.311871465},label: '2 sigma'}
+  - value: 0.388186767 
+    errors:
+    - {asymerror: { plus: 0.27090101 , minus: -0.19129797599999998},label: '1 sigma'}
+    - {asymerror: { plus: 0.504368583 , minus: -0.29593030589999997},label: '2 sigma'}
+  - value: 0.353532922 
+    errors:
+    - {asymerror: { plus: 0.274978986 , minus: -0.18371444300000003},label: '1 sigma'}
+    - {asymerror: { plus: 0.524639866 , minus: -0.27849703620000005},label: '2 sigma'}
+  - value: 0.320936639 
+    errors:
+    - {asymerror: { plus: 0.276889756 , minus: -0.17498372200000004},label: '1 sigma'}
+    - {asymerror: { plus: 0.541835877 , minus: -0.2601301817},label: '2 sigma'}
+  - value: 0.290414357 
+    errors:
+    - {asymerror: { plus: 0.276758299 , minus: -0.165408301},label: '1 sigma'}
+    - {asymerror: { plus: 0.555945492 , minus: -0.2413145511},label: '2 sigma'}
+  - value: 0.261955329 
+    errors:
+    - {asymerror: { plus: 0.27472836900000003 , minus: -0.155258308},label: '1 sigma'}
+    - {asymerror: { plus: 0.56699071 , minus: -0.2224478077},label: '2 sigma'}
+  - value: 0.235530525 
+    errors:
+    - {asymerror: { plus: 0.27095775000000005 , minus: -0.1447720898},label: '1 sigma'}
+    - {asymerror: { plus: 0.575020562 , minus: -0.2038518627},label: '2 sigma'}
+  - value: 0.21109705 
+    errors:
+    - {asymerror: { plus: 0.26561511 , minus: -0.1341573782},label: '1 sigma'}
+    - {asymerror: { plus: 0.580108607 , minus: -0.18578287170000002},label: '2 sigma'}
+  - value: 0.188594532 
+    errors:
+    - {asymerror: { plus: 0.25887532300000005 , minus: -0.1235897048},label: '1 sigma'}
+    - {asymerror: { plus: 0.582352075 , minus: -0.16843515450000002},label: '2 sigma'}
+  - value: 0.167960222 
+    errors:
+    - {asymerror: { plus: 0.25092010600000003 , minus: -0.11321990809999999},label: '1 sigma'}
+    - {asymerror: { plus: 0.581868509 , minus: -0.15195894999999998},label: '2 sigma'}
+  - value: 0.149109711 
+    errors:
+    - {asymerror: { plus: 0.241927875 , minus: -0.10316567630000001},label: '1 sigma'}
+    - {asymerror: { plus: 0.578794682 , minus: -0.1364510278},label: '2 sigma'}
+  - value: 0.131958847 
+    errors:
+    - {asymerror: { plus: 0.23207763000000003 , minus: -0.09352333319999999},label: '1 sigma'}
+    - {asymerror: { plus: 0.5732833450000001 , minus: -0.1219770514},label: '2 sigma'}
+  - value: 0.116415589 
+    errors:
+    - {asymerror: { plus: 0.22154283600000002 , minus: -0.08436524249999999},label: '1 sigma'}
+    - {asymerror: { plus: 0.56550103 , minus: -0.10856983178},label: '2 sigma'}
+  - value: 0.102383878 
+    errors:
+    - {asymerror: { plus: 0.21048982900000002 , minus: -0.0757432481},label: '1 sigma'}
+    - {asymerror: { plus: 0.5556254079999999 , minus: -0.09623653729},label: '2 sigma'}
+  - value: 0.089765424 
+    errors:
+    - {asymerror: { plus: 0.199075966 , minus: -0.06769124},label: '1 sigma'}
+    - {asymerror: { plus: 0.543842858 , minus: -0.08496380567999999},label: '2 sigma'}
+  - value: 0.0784608457 
+    errors:
+    - {asymerror: { plus: 0.18744771529999998 , minus: -0.0602273755},label: '1 sigma'}
+    - {asymerror: { plus: 0.5303456703 , minus: -0.07472183683},label: '2 sigma'}
+  - value: 0.0683712118 
+    errors:
+    - {asymerror: { plus: 0.1757395302 , minus: -0.053356569799999996},label: '1 sigma'}
+    - {asymerror: { plus: 0.5153296521999999 , minus: -0.06546842855},label: '2 sigma'}
+  - value: 0.0593992304 
+    errors:
+    - {asymerror: { plus: 0.1640729836 , minus: -0.0470727608},label: '1 sigma'}
+    - {asymerror: { plus: 0.4989918126 , minus: -0.057152333050000004},label: '2 sigma'}
+  - value: 0.0514500183 
+    errors:
+    - {asymerror: { plus: 0.1525558777 , minus: -0.04136084029999999},label: '1 sigma'}
+    - {asymerror: { plus: 0.48152763270000004 , minus: -0.04971589101},label: '2 sigma'}
+  - value: 0.0444328864 
+    errors:
+    - {asymerror: { plus: 0.14128347759999998 , minus: -0.03619926417},label: '1 sigma'}
+    - {asymerror: { plus: 0.4631313076 , minus: -0.04309832552},label: '2 sigma'}
+  - value: 0.0382599945 
+    errors:
+    - {asymerror: { plus: 0.1303354595 , minus: -0.03156030704},label: '1 sigma'}
+    - {asymerror: { plus: 0.4439889455 , minus: -0.03723583583},label: '2 sigma'}
+  - value: 0.032848974 
+    errors:
+    - {asymerror: { plus: 0.119779472 , minus: -0.027413121270000004},label: '1 sigma'}
+    - {asymerror: { plus: 0.42428201499999996 , minus: -0.032065196336},label: '2 sigma'}
+  - value: 0.0281220575 
+    errors:
+    - {asymerror: { plus: 0.1096696805 , minus: -0.02372414613},label: '1 sigma'}
+    - {asymerror: { plus: 0.4041825985 , minus: -0.027523874509},label: '2 sigma'}
+  - value: 0.024007155 
+    errors:
+    - {asymerror: { plus: 0.100049188 , minus: -0.02045887685},label: '1 sigma'}
+    - {asymerror: { plus: 0.383855479 , minus: -0.023551828586},label: '2 sigma'}
+  - value: 0.0204366071 
+    errors:
+    - {asymerror: { plus: 0.0909477739 , minus: -0.01758172026},label: '1 sigma'}
+    - {asymerror: { plus: 0.3634505999 , minus: -0.020090932997},label: '2 sigma'}
+  - value: 0.0173489255 
+    errors:
+    - {asymerror: { plus: 0.082386863 , minus: -0.01505812184},label: '1 sigma'}
+    - {asymerror: { plus: 0.3431107335 , minus: -0.017087168142000002},label: '2 sigma'}
+  - value: 0.0146873403 
+    errors:
+    - {asymerror: { plus: 0.07437718709999999 , minus: -0.012854062440000001},label: '1 sigma'}
+    - {asymerror: { plus: 0.32296351269999996 , minus: -0.014489627856000001},label: '2 sigma'}
+  - value: 0.0124004353 
+    errors:
+    - {asymerror: { plus: 0.0669218321 , minus: -0.01093714413},label: '1 sigma'}
+    - {asymerror: { plus: 0.30312549569999997 , minus: -0.01225146638},label: '2 sigma'}
+  - value: 0.0104416544 
+    errors:
+    - {asymerror: { plus: 0.0600165248 , minus: -0.00927668585},label: '1 sigma'}
+    - {asymerror: { plus: 0.2837001406 , minus: -0.010329683489},label: '2 sigma'}
+  - value: 0.00876910899 
+    errors:
+    - {asymerror: { plus: 0.05365080871 , minus: -0.00784399127},label: '1 sigma'}
+    - {asymerror: { plus: 0.26477802001 , minus: -0.008685146934},label: '2 sigma'}
+  - value: 0.00734537968 
+    errors:
+    - {asymerror: { plus: 0.047809370920000004 , minus: -0.0066125515329999995},label: '1 sigma'}
+    - {asymerror: { plus: 0.24643791632 , minus: -0.007282565844},label: '2 sigma'}
+  - value: 0.00613703562 
+    errors:
+    - {asymerror: { plus: 0.042472261479999995 , minus: -0.005557947497},label: '1 sigma'}
+    - {asymerror: { plus: 0.22874480638 , minus: -0.0060901501791},label: '2 sigma'}
+  - value: 0.00511453254 
+    errors:
+    - {asymerror: { plus: 0.03761660786 , minus: -0.004658028057},label: '1 sigma'}
+    - {asymerror: { plus: 0.21175277646000001 , minus: -0.0050796141766},label: '2 sigma'}
+  - value: 0.00425179832 
+    errors:
+    - {asymerror: { plus: 0.03321703278 , minus: -0.003892775078},label: '1 sigma'}
+    - {asymerror: { plus: 0.19550432968 , minus: -0.0042258491161},label: '2 sigma'}
+  - value: 0.00352594704 
+    errors:
+    - {asymerror: { plus: 0.029246491859999998 , minus: -0.003244240492},label: '1 sigma'}
+    - {asymerror: { plus: 0.18003132696 , minus: -0.0035067041598},label: '2 sigma'}
+  - value: 0.00291696399 
+    errors:
+    - {asymerror: { plus: 0.02567685261 , minus: -0.002696424637},label: '1 sigma'}
+    - {asymerror: { plus: 0.16535538801 , minus: -0.0029027239484999997},label: '2 sigma'}
+  - value: 0.00240744293 
+    errors:
+    - {asymerror: { plus: 0.022479613370000002 , minus: -0.0022351727689999996},label: '1 sigma'}
+    - {asymerror: { plus: 0.15148924307 , minus: -0.0023969264748},label: '2 sigma'}
+  - value: 0.00198228942 
+    errors:
+    - {asymerror: { plus: 0.01962626798 , minus: -0.001848016814},label: '1 sigma'}
+    - {asymerror: { plus: 0.13843704958 , minus: -0.00197453830147},label: '2 sigma'}
+  - value: 0.00162847483 
+    errors:
+    - {asymerror: { plus: 0.01708877727 , minus: -0.001524042007},label: '1 sigma'}
+    - {asymerror: { plus: 0.12619548717 , minus: -0.0016227729712},label: '2 sigma'}
+  - value: 0.00133479333 
+    errors:
+    - {asymerror: { plus: 0.01483987497 , minus: -0.0012537389178999998},label: '1 sigma'}
+    - {asymerror: { plus: 0.11475447067 , minus: -0.00133060689372},label: '2 sigma'}
+  - value: 0.00109165409 
+    errors:
+    - {asymerror: { plus: 0.012853423610000001 , minus: -0.0010288731471},label: '1 sigma'}
+    - {asymerror: { plus: 0.10409847190999999 , minus: -0.0010885859741599998},label: '2 sigma'}
+  - value: 0.000890859412 
+    errors:
+    - {asymerror: { plus: 0.011104445288 , minus: -0.000842329797},label: '1 sigma'}
+    - {asymerror: { plus: 0.094206464488 , minus: -0.00088861493481},label: '2 sigma'}
+  - value: 0.000725442914 
+    errors:
+    - {asymerror: { plus: 0.009569416285999999 , minus: -0.0006880032304},label: '1 sigma'}
+    - {asymerror: { plus: 0.085053479486 , minus: -0.0007238038559},label: '2 sigma'}
+  - value: 0.00058950098 
+    errors:
+    - {asymerror: { plus: 0.00822632058 , minus: -0.0005606724342},label: '1 sigma'}
+    - {asymerror: { plus: 0.07661116981999999 , minus: -0.00058830608635},label: '2 sigma'}
+  - value: 0.000478045477 
+    errors:
+    - {asymerror: { plus: 0.0070546812629999995 , minus: -0.0004558892396},label: '1 sigma'}
+    - {asymerror: { plus: 0.068848384123 , minus: -0.000477175839732},label: '2 sigma'}
+  - value: 0.000386876638 
+    errors:
+    - {asymerror: { plus: 0.006035590172 , minus: -0.00036987979800000005},label: '1 sigma'}
+    - {asymerror: { plus: 0.061731887962 , minus: -0.000386244753515},label: '2 sigma'}
+  - value: 0.000312476736 
+    errors:
+    - {asymerror: { plus: 0.005151780904 , minus: -0.0002994610973},label: '1 sigma'}
+    - {asymerror: { plus: 0.055227605464 , minus: -0.000312018323341},label: '2 sigma'}
+  - value: 0.000251891725 
+    errors:
+    - {asymerror: { plus: 0.004387370775 , minus: -0.00024194233733},label: '1 sigma'}
+    - {asymerror: { plus: 0.049299564375 , minus: -0.000251559676007},label: '2 sigma'}
+  - value: 0.000202665929 
+    errors:
+    - {asymerror: { plus: 0.0037280535809999997 , minus: -0.00019507347289},label: '1 sigma'}
+    - {asymerror: { plus: 0.043912179571 , minus: -0.000202425770834},label: '2 sigma'}
+  - value: 0.000162754867 
+    errors:
+    - {asymerror: { plus: 0.0031608894029999998 , minus: -0.00015697071177000002},label: '1 sigma'}
+    - {asymerror: { plus: 0.039029663333 , minus: -0.00016258142299700002},label: '2 sigma'}
+  - value: 0.000130463843 
+    errors:
+    - {asymerror: { plus: 0.002674266477 , minus: -0.00012606450965},label: '1 sigma'}
+    - {asymerror: { plus: 0.034616712657 , minus: -0.000130338757732},label: '2 sigma'}
+  - value: 0.000104391562 
+    errors:
+    - {asymerror: { plus: 0.002257806188 , minus: -0.00010105084206},label: '1 sigma'}
+    - {asymerror: { plus: 0.030638758238 , minus: -0.0001043014763782},label: '2 sigma'}
+  - value: 8.33827153e-05 
+    errors:
+    - {asymerror: { plus: 0.0019022764247000003 , minus: -8.084982263e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.0270622629847 , minus: -8.33179227559e-05},label: '2 sigma'}
+  - value: 6.64872715e-05 
+    errors:
+    - {asymerror: { plus: 0.0015994986585 , minus: -6.456977606e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.0238549259285 , minus: -6.64407308247e-05},label: '2 sigma'}
+  - value: 5.29259086e-05 
+    errors:
+    - {asymerror: { plus: 0.0013422544414 , minus: -5.147643987e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.0209858212914 , minus: -5.28925202578e-05},label: '2 sigma'}
+  - value: 4.20611423e-05 
+    errors:
+    - {asymerror: { plus: 0.0011242008177 , minus: -4.096704349e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.0184255655577 , minus: -4.20372186133e-05},label: '2 sigma'}
+  - value: 3.33728076e-05 
+    errors:
+    - {asymerror: { plus: 0.0009397851463999999 , minus: -3.2548111134e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.0161464093924 , minus: -3.33556857947e-05},label: '2 sigma'}
+  - value: 2.64373935e-05 
+    errors:
+    - {asymerror: { plus: 0.0007841618995 , minus: -2.5816613959e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.014122263606499999 , minus: -2.6425153675e-05},label: '2 sigma'}
+  - value: 2.09110052e-05 
+    errors:
+    - {asymerror: { plus: 0.0006531197588 , minus: -2.0444342380000002e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.0123287601948 , minus: -2.0902264979880002e-05},label: '2 sigma'}
+  - value: 1.65148991e-05 
+    errors:
+    - {asymerror: { plus: 0.0005430073959 , minus: -1.6164545821e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.0107432023009 , minus: -1.650866454162e-05},label: '2 sigma'}
+  - value: 1.30237894e-05 
+    errors:
+    - {asymerror: { plus: 0.0004506728016 , minus: -1.2761087876e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.0093445995606 , minus: -1.301934675364e-05},label: '2 sigma'}
+  - value: 1.02559097e-05 
+    errors:
+    - {asymerror: { plus: 0.0003734012873 , minus: -1.0059171919e-05},label: '1 sigma'}
+    - {asymerror: { plus: 0.0081135924703 , minus: -1.025274708724e-05},label: '2 sigma'}
+  - value: 8.06493998e-06 
+    errors:
+    - {asymerror: { plus: 0.00030886239802 , minus: -7.917777606e-06},label: '1 sigma'}
+    - {asymerror: { plus: 0.007032408860019999 , minus: -8.062690750849999e-06},label: '2 sigma'}
+  - value: 6.33328741e-06 
+    errors:
+    - {asymerror: { plus: 0.00025505971759 , minus: -6.223336156e-06},label: '1 sigma'}
+    - {asymerror: { plus: 0.00608476938259 , minus: -6.33168927052e-06},label: '2 sigma'}
+  - value: 4.96684765e-06 
+    errors:
+    - {asymerror: { plus: 0.00021029462835000002 , minus: -4.8847893787e-06},label: '1 sigma'}
+    - {asymerror: { plus: 0.00525594501235 , minus: -4.9657131224e-06},label: '2 sigma'}
+  - value: 3.89028595e-06 
+    errors:
+    - {asymerror: { plus: 0.00017312037405 , minus: -3.8291085205e-06},label: '1 sigma'}
+    - {asymerror: { plus: 0.00453256188405 , minus: -3.889481192475e-06},label: '2 sigma'}
+  - value: 3.04331366e-06 
+    errors:
+    - {asymerror: { plus: 0.00014230433534 , minus: -2.9977495802e-06},label: '1 sigma'}
+    - {asymerror: { plus: 0.00390244278634 , minus: -3.042743258531e-06},label: '2 sigma'}
+  - value: 2.37788353e-06 
+    errors:
+    - {asymerror: { plus: 0.00011680277747 , minus: -2.3439811041e-06},label: '1 sigma'}
+    - {asymerror: { plus: 0.00335461047647 , minus: -2.377479534952e-06},label: '2 sigma'}
+  - value: 1.85578682e-06 
+    errors:
+    - {asymerror: { plus: 9.573461968e-05 , minus: -1.8305850530999998e-06},label: '1 sigma'}
+    - {asymerror: { plus: 0.00287921312318 , minus: -1.8555008854629998e-06},label: '2 sigma'}
+  - value: 1.44668314e-06 
+    errors:
+    - {asymerror: { plus: 7.835752106e-05 , minus: -1.4279660836e-06},label: '1 sigma'}
+    - {asymerror: { plus: 0.00246742883686 , minus: -1.4464809002060001e-06},label: '2 sigma'}
+  - value: 1.12652663e-06 
+    errors:
+    - {asymerror: { plus: 6.404772327e-05 , minus: -1.1126378025e-06},label: '1 sigma'}
+    - {asymerror: { plus: 0.00211138763337 , minus: -1.126383677659e-06},label: '2 sigma'}
+  - value: 8.76286589e-07 
+    errors:
+    - {asymerror: { plus: 5.2282067411000005e-05 , minus: -8.659891522e-07},label: '1 sigma'}
+    - {asymerror: { plus: 0.001804083713411 , minus: -8.76185604539e-07},label: '2 sigma'}
+  - value: 6.80928725e-07 
+    errors:
+    - {asymerror: { plus: 4.2622865675e-05 , minus: -6.7330016708e-07},label: '1 sigma'}
+    - {asymerror: { plus: 0.001539301741275 , minus: -6.808574280952e-07},label: '2 sigma'}
+  - value: 5.28593258e-07 
+    errors:
+    - {asymerror: { plus: 3.4704656842e-05 , minus: -5.229462389900001e-07},label: '1 sigma'}
+    - {asymerror: { plus: 0.001311541186742 , minus: -5.285429481202001e-07},label: '2 sigma'}
+  - value: 4.09939534e-07 
+    errors:
+    - {asymerror: { plus: 2.8222952666e-05 , minus: -4.0576244868999996e-07},label: '1 sigma'}
+    - {asymerror: { plus: 0.001115948070466 , minus: -4.0990405134639996e-07},label: '2 sigma'}
+  - value: 3.1762162e-07 
+    errors:
+    - {asymerror: { plus: 2.2924566680000003e-05 , minus: -3.1453403676e-07},label: '1 sigma'}
+    - {asymerror: { plus: 0.00094824986338 , minus: -3.175966065837e-07},label: '2 sigma'}
+  - value: 2.45869973e-07 
+    errors:
+    - {asymerror: { plus: 1.8599341527e-05 , minus: -2.4358927223e-07},label: '1 sigma'}
+    - {asymerror: { plus: 0.0008046939750270001 , minus: -2.458523476826e-07},label: '2 sigma'}
+  - value: 1.90160138e-07 
+    errors:
+    - {asymerror: { plus: 1.5073207362000002e-05 , minus: -1.8847655072e-07},label: '1 sigma'}
+    - {asymerror: { plus: 0.000681993846862 , minus: -1.9014772373e-07},label: '2 sigma'}
+  - value: 1.46948344e-07 
+    errors:
+    - {asymerror: { plus: 1.2202217055999999e-05 , minus: -1.4570631075e-07},label: '1 sigma'}
+    - {asymerror: { plus: 0.000577276724656 , minus: -1.4693960346373e-07},label: '2 sigma'}
+  - value: 1.13463198e-07 
+    errors:
+    - {asymerror: { plus: 9.867588662e-06 , minus: -1.1254745188400001e-07},label: '1 sigma'}
+    - {asymerror: { plus: 0.000488038925802 , minus: -1.1345704620769e-07},label: '2 sigma'}
+  - value: 8.75390838e-08 
+    errors:
+    - {asymerror: { plus: 7.971404286199999e-06 , minus: -8.6864287822e-08},label: '1 sigma'}
+    - {asymerror: { plus: 0.0004121004789162 , minus: -8.753475544556e-08},label: '2 sigma'}
+  - value: 6.74868988e-08 
+    errors:
+    - {asymerror: { plus: 6.4331589512e-06 , minus: -6.6989918229e-08},label: '1 sigma'}
+    - {asymerror: { plus: 0.0003475705251012 , minus: -6.748385430289e-08},label: '2 sigma'}
+  - value: 5.19898853e-08 
+    errors:
+    - {asymerror: { plus: 5.1867041147e-06 , minus: -5.162404883e-08},label: '1 sigma'}
+    - {asymerror: { plus: 0.0002928095641147 , minus: -5.1987744428120005e-08},label: '2 sigma'}
+  - value: 4.00233039e-08 
+    errors:
+    - {asymerror: { plus: 4.1778187361e-06 , minus: -3.9754133065000004e-08},label: '1 sigma'}
+    - {asymerror: { plus: 0.00024640090469609996 , minus: -4.002179881584e-08},label: '2 sigma'}
+  - value: 3.07902973e-08 
+    errors:
+    - {asymerror: { plus: 3.3621051427e-06 , minus: -3.0592338649999997e-08},label: '1 sigma'}
+    - {asymerror: { plus: 0.0002071218377027 , minus: -3.078923941673e-08},label: '2 sigma'}
+  - value: 2.36718976e-08 
+    errors:
+    - {asymerror: { plus: 2.7032643724000002e-06 , minus: -2.3526372608999998e-08},label: '1 sigma'}
+    - {asymerror: { plus: 0.00017391912010239998 , minus: -2.3671154183183997e-08},label: '2 sigma'}
+  - value: 1.8187926e-08 
+    errors:
+    - {asymerror: { plus: 2.171672194e-06 , minus: -1.8080988517e-08},label: '1 sigma'}
+    - {asymerror: { plus: 0.000145887727074 , minus: -1.8187403655227e-08},label: '2 sigma'}
+  - value: 1.39661029e-08 
+    errors:
+    - {asymerror: { plus: 1.7431715971e-06 , minus: -1.3887549971000001e-08},label: '1 sigma'}
+    - {asymerror: { plus: 0.0001222506668971 , minus: -1.3965735936567e-08},label: '2 sigma'}

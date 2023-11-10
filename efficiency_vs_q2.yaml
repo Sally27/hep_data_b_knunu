@@ -1,0 +1,56 @@
+independent_variables:
+- header: {name: '$q^{2}$',units: 'GeV$^2/c^4$'}
+  values:
+  - {low: 0.0, high: 2.0}
+  - {low: 2.0, high: 4.0}
+  - {low: 4.0, high: 6.0}
+  - {low: 6.0, high: 8.0}
+  - {low: 8.0, high: 10.0}
+  - {low: 10.0, high: 12.0}
+  - {low: 12.0, high: 14.0}
+  - {low: 14.0, high: 16.0}
+  - {low: 16.0, high: 18.0}
+  - {low: 18.0, high: 20.0}
+  - {low: 20.0, high: 22.0}
+  - {low: 22.0, high: 24.0}
+dependent_variables:
+- header: {name: 'Efficiency'}
+  qualifiers:
+  - {name: Luminosity , units: 'fb$^{-1}$', value: 63+9}
+  values:
+  - value: 12.66745696
+    errors:
+    - symerror: 0.27207295
+  - value: 10.82571692
+    errors:
+    - symerror: 0.26463688
+  - value: 7.04488885
+    errors:
+    - symerror: 0.2278063
+  - value: 3.51769225
+    errors:
+    - symerror: 0.1711566
+  - value: 1.46683133
+    errors:
+    - symerror: 0.11813559
+  - value: 0.68175914
+    errors:
+    - symerror: 0.08670158
+  - value: 0.27954132
+    errors:
+    - symerror: 0.06074916
+  - value: 0.12747088
+    errors:
+    - symerror: 0.04571342
+  - value: 0.0
+    errors:
+    - symerror: 0.018093
+  - value: 0.0
+    errors:
+    - symerror: 0.02455796
+  - value: 0.0
+    errors:
+    - symerror: 0.03750937
+  - value: 0.0
+    errors:
+    - symerror: 0.18761693
